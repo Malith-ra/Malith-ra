@@ -18,44 +18,18 @@
 
 --- 
 
-### 🔥 My Stats 
-<img width="400" src="https://github-readme-stats.vercel.app/api?username=getlost01&count_private=true&show_icons=true&theme=react" />  <img width="425" src="https://streak-stats.demolab.com/?user=getlost01&theme=react" />
-<img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=getlost01&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
-<a href="https://github.com/getlost01/github-stats">
-<img src="https://getlost01.github.io/github-stats.github.io/generated/overview.svg#gh-dark-mode-only" />
-<img src="https://getlost01.github.io/github-stats.github.io/generated/languages.svg#gh-dark-mode-only" />
-</a>
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=getlost01&layout=compact&langs_count=10&theme=react) -->
-<!-- ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=getlost01&theme=react) -->
-
---- 
-
-
 ### ⚙️ My Projects 
 
 #### Full-Stack Projects :
 
-* [Web Tools](https://github.com/getlost01/web-tools-gl01)
-* [Blogging Web APIs](https://github.com/getlost01/Postgre-APIs-App)
-* [Inventory App](https://github.com/getlost01/InventoryAppFrontend)
-* [UIET Connect](https://github.com/getlost01/UietConnect)
-* [Meal Planner](https://github.com/getlost01/meal-planner-API)
-* [Voting Managment System](https://github.com/getlost01/VotingManagmentSystem)
-* [ABitShort](https://github.com/getlost01/linkshortner)
-* [File Share App](https://github.com/getlost01/dlink-share)
-
-#### Web Store Extensions 
-
-* [Color Tools and Dropper](https://github.com/getlost01/color-picker-updated)
-* [Site Saver](https://github.com/getlost01/site-saver)
-* [CP Calender](https://github.com/getlost01/cp-contest-calender)
-
-#### Frontend Projects :
-
-* [Quiz App Templates](https://github.com/getlost01/quiz-template)
-* [Country Search](https://github.com/getlost01/country-search)
-* [Portfolio Site](https://github.com/getlost01/portfolio.github.io)
-* [Cure Science Updated](https://github.com/getlost01/CureScience)
+* [Fire-Alarm-Monitoring-System](https://github.com/Malith-ra/Fire-Alarm-Monitoring-System)
+* [State-Management-Micro-Frontend ](https://github.com/Malith-ra/State-Management-Micro-Frontend)
+* [Micro-Frontend-React](https://github.com/Malith-ra/Micro-Frontend-React)
+* [design-system](https://github.com/Malith-ra/design-system)
+* [nextjs-fullstack-app-template](https://github.com/Malith-ra/nextjs-fullstack-app-template)
+* [Mern-Stack-Online-Search-Hotels-System-for-a-Tourism](https://github.com/Malith-ra/Mern-Stack-Online-Search-Hotels-System-for-a-Tourism-)
+* [Micro-Kernel-Architecture-using-OSGi-Framework](https://github.com/Malith-ra/Micro-Kernel-Architecture-using-OSGi-Framework)
+* [https://github.com/Malith-ra/JSP-EventManagement](https://github.com/Malith-ra/JSP-EventManagement)
 
 <a href="https://github.com/getlost01/getlost01/tree/main/projects"><kbd> <br> Veiw all of my projects <br> </kbd></a>
 
