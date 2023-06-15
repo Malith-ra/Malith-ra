@@ -31,7 +31,7 @@
 * [Micro-Kernel-Architecture-using-OSGi-Framework](https://github.com/Malith-ra/Micro-Kernel-Architecture-using-OSGi-Framework)
 * [https://github.com/Malith-ra/JSP-EventManagement](https://github.com/Malith-ra/JSP-EventManagement)
 
-<a href="https://github.com/getlost01/getlost01/tree/main/projects"><kbd> <br> Veiw all of my projects <br> </kbd></a>
+<a href="https://github.com/Malith-ra?tab=repositories"><kbd> <br> Veiw all of my projects <br> </kbd></a>
 
 ---
 
